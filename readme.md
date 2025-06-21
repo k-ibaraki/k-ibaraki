@@ -1,6 +1,6 @@
 # Keita Ibaraki
 
-Engineering Manager @ NCDC 
+Technology Director @ NCDC 
 
 - Zenn : https://zenn.dev/ibaraki
 - Twitter : https://twitter.com/fdxhq8zjrhawfmc
