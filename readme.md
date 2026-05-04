@@ -3,7 +3,7 @@
 Technology Director @ NCDC 
 
 - Zenn : https://zenn.dev/ibaraki
-- Twitter : https://x.com/ibaraki_1234?s=21
+- Twitter : https://x.com/ibaraki_1234
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-ibaraki&theme=tokyonight)
 
